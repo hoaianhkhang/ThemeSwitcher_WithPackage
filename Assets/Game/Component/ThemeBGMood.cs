@@ -31,6 +31,6 @@ public class ThemeBGMood :
         if (_bgMood == null || theme == null)
             return;
 
-        _bgMood.ApplySprites(theme.BackgroundSprites);
+        _bgMood.ApplyMoodSprites(theme.BackgroundSprites);
     }
 }
