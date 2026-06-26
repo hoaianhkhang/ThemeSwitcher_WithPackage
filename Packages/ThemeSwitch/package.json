@@ -1,0 +1,10 @@
+{
+    "name": "com.company.themeswitch",
+    "version": "1.0.0",
+    "displayName": "Theme Switch",
+    "description": "Runtime theme switching system",
+    "unity": "2022.3",
+    "author": {
+        "name": "Hoai Anh"
+    }
+}

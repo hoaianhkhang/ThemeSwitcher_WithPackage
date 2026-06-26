@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "unity-project": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "C:\\Users\\hoaia\\Downloads\\ThemeSwitcher_WithPackage"
+      ]
+    }
+  }
+}

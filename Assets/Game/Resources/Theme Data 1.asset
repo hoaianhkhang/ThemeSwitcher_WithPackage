@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b190aa3c00442e74ca261a146bd4c6d3, type: 3}
+  m_Name: Theme Data 1
+  m_EditorClassIdentifier: 
+  BackgroundSprites:
+  - {fileID: 21300000, guid: d14cdcc4fa6c73f489d01fd1a6874c3b, type: 3}
+  - {fileID: 21300000, guid: ee46b9d3907bf00468dcafe96d47bdb8, type: 3}
+  - {fileID: 21300000, guid: d0cee807645372649badcc5ba7becfd2, type: 3}
+  - {fileID: 21300000, guid: dcfb1a12b0bc37b49bdc45fbfaade7c6, type: 3}
